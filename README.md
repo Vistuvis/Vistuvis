@@ -1,5 +1,4 @@
 
-![banner](./ghprofilev3.png)
 
 Hey! 👋 
 I'm Vistuvis, an aspiring programming from Canada. I like guitars, motorcycles and code.
