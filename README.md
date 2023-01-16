@@ -1,5 +1,16 @@
-- 👋 Hi, I’m @Vistuvis
-- 👀 I’m interested in playing guitar
+
+![banner](./ghprofilev3.png)
+
+Hey! 👋 
+I'm Vistuvis, an aspiring programming from Canada. I like guitars, motorcycles and code.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wyatt-hanes-b7583120/)
+
+</div>
+    
+## Programming
 - 🌱 I’m currently learning C# and DotNet
 - 💞️ I’m looking to collaborate on C# stuff
 - 📫 How to reach me: Vistuvis#5561 on discord
