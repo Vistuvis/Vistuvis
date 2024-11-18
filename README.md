@@ -1,7 +1,7 @@
 
 
 Hey! 👋 
-I'm Vistuvis, an aspiring programming from Canada. I like guitars, motorcycles and code.
+I'm Vistuvis, an aspiring programmer from Canada. I like guitars, motorcycles and code.
 
 <div align="center">
 
